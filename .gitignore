@@ -66,3 +66,10 @@ install_manifest.txt
 
 # idea
 .idea/
+
+# Visual studio files
+*.vcxproj
+*.filters
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
